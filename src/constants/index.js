@@ -167,3 +167,58 @@ export const socialLinks = [
     link: "https://www.linkedin.com/in/burak-emre-dokuyucu",
   },
 ];
+
+export const projects = [
+  {
+    iconUrl: summiz,
+    theme: "btn-back-yellow",
+    name: "Event Platform Web Application",
+    description: "An event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk and Stripe.",
+    link: "https://github.com/emredkyc/event_platform",
+  },
+  {
+    iconUrl: snapgram,
+    theme: "btn-back-pink",
+    name: "3D Portfolio",
+    description: "Let's create a cool 3D website together! You will learn how to make a portfolio with fun interactive pieces like a floating island and a fox that moves when you type. This way you can show off your skills.",
+    link: "https://github.com/emredkyc/3d_portfolio",
+  },
+  {
+    iconUrl: pricewise,
+    theme: "btn-back-red",
+    name: "3D Portfolio",
+    description: "Curious about Server Actions in Next.js 14? How about infinite scrolling and Framer Motion animations with Next 14? This application will explain these concepts when building a server-side Next 14 Application",
+    link: "https://github.com/emredkyc/anime_world",
+  },
+  {
+    iconUrl: car,
+    theme: "btn-back-blue",
+    name: "ClubTotal Card - Loyalty Card Application",
+    description: "Customer loyalty card developed for Total Energies Türkiye fuel stations is the application. Customers included in the application can make fuel purchases you can earn points, benefit from various campaigns and you can spend the points you earn at gas stations.",
+    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects/",
+  },
+  {
+    iconUrl: threads,
+    theme: "btn-back-green",
+    name: "JetEMV - Card Personalization Application",
+    description:
+      "Debit Card, Prepaid Card and Credit used in payment systems It is the personalization application of cards. The application can make Magnetic and EMV (Chip) personalization, It can work integrated with banks.",
+    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects/",
+  },
+  {
+    iconUrl: pricewise,
+    theme: "btn-back-black",
+    name: "Passport Card - Loyalty Card Application",
+    description:
+      "TAV Operations, one of the subsidiaries of TAV Airports Holding Services Inc. TAV Passport Card, which is a brand, is available to passengers at the airport. It is a membership program that offers privileges. Included in the membership program. Customers can choose the category of membership at airports operated by TAV. You can benefit from different services depending on your needs.",
+    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects/",
+  },
+  {
+    iconUrl: estate,
+    theme: "btn-back-black",
+    name: "MyGini - Loyalty and Offers Management",
+    description:
+      "Create, personalize and communicate your offers in minutes and push them to your mobile app in real time.",
+    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects/",
+  },
+];
