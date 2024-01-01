@@ -186,7 +186,7 @@ export const projects = [
   {
     iconUrl: pricewise,
     theme: "btn-back-red",
-    name: "3D Portfolio",
+    name: "Anime World",
     description: "Curious about Server Actions in Next.js 14? How about infinite scrolling and Framer Motion animations with Next 14? This application will explain these concepts when building a server-side Next 14 Application",
     link: "https://github.com/emredkyc/anime_world",
   },
