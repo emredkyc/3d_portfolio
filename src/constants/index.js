@@ -170,11 +170,32 @@ export const socialLinks = [
 
 export const projects = [
   {
-    iconUrl: summiz,
-    theme: "btn-back-yellow",
+    iconUrl: pricewise,
+    theme: "btn-back-pink",
     name: "Event Platform Web Application",
     description: "An event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk and Stripe.",
     link: "https://github.com/emredkyc/event_platform",
+  },
+  {
+    iconUrl: summiz,
+    theme: "btn-back-yellow",
+    name: "An AI Article Summarizer Website",
+    description: "Summarize Articles with OpenAI GPT-4. Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.",
+    link: "https://github.com/emredkyc/ai_summarizer",
+  },
+  {
+    iconUrl: car,
+    theme: "btn-back-blue",
+    name: "A Car Showcase Website",
+    description: "Build and Deploy a Modern Next.js 14 Application | React, Next JS 14, TypeScript, Tailwind CSS",
+    link: "https://github.com/emredkyc/car_showcase",
+  },
+  {
+    iconUrl: summiz,
+    theme: "btn-back-red",
+    name: "AI Prompt Sharing Application",
+    description: "Next.js has recently become the official React framework as stated in the React documentation. In this project you will learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you will test your skills by building a modern full-stack Next 14 application.",
+    link: "https://github.com/emredkyc/ai_prompt",
   },
   {
     iconUrl: snapgram,
