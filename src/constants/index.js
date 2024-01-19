@@ -191,6 +191,38 @@ export const projects = [
     link: "https://github.com/emredkyc/car_showcase",
   },
   {
+    iconUrl: snapgram,
+    theme: "btn-back-yellow",
+    name: "Personal portfolio website.",
+    description:
+      "Personal portfolio website.",
+    link: "https://emredkyc.vercel.app",
+  },
+  {
+    iconUrl: estate,
+    theme: "btn-back-green",
+    name: "React Exercise Application",
+    description:
+      "This is a Exercise App that was built using Rapid API and is a PWA web app. It shows different exercises for gym freak as well as videos of each and every exercise with full details of the exercises with great explanation.",
+    link: "https://exercise-dev.vercel.app",
+  },
+  {
+    iconUrl: threads,
+    theme: "btn-back-black",
+    name: "Real Estate Website",
+    description:
+      "Build and Deploy a Real Estate React & Next.js Application",
+    link: "https://realtor-dev.vercel.app",
+  },
+  {
+    iconUrl: threads,
+    theme: "btn-back-black",
+    name: "A Ecom Price Tracking Application",
+    description:
+      "Dive into web scraping and build a Next.js 14 eCommerce price tracker within one project that teaches you data scraping, cron jobs, sending emails, deployment, and more.",
+    link: "https://price-tracker-dev.vercel.app",
+  },
+  {
     iconUrl: summiz,
     theme: "btn-back-red",
     name: "AI Prompt Sharing Application",
@@ -216,7 +248,7 @@ export const projects = [
     theme: "btn-back-blue",
     name: "ClubTotal Card - Loyalty Card Application",
     description: "Customer loyalty card developed for Total Energies Türkiye fuel stations is the application. Customers included in the application can make fuel purchases you can earn points, benefit from various campaigns and you can spend the points you earn at gas stations.",
-    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects/",
+    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects",
   },
   {
     iconUrl: threads,
@@ -224,7 +256,7 @@ export const projects = [
     name: "JetEMV - Card Personalization Application",
     description:
       "Debit Card, Prepaid Card and Credit used in payment systems It is the personalization application of cards. The application can make Magnetic and EMV (Chip) personalization, It can work integrated with banks.",
-    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects/",
+    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects",
   },
   {
     iconUrl: pricewise,
@@ -232,7 +264,7 @@ export const projects = [
     name: "Passport Card - Loyalty Card Application",
     description:
       "TAV Operations, one of the subsidiaries of TAV Airports Holding Services Inc. TAV Passport Card, which is a brand, is available to passengers at the airport. It is a membership program that offers privileges. Included in the membership program. Customers can choose the category of membership at airports operated by TAV. You can benefit from different services depending on your needs.",
-    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects/",
+    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects",
   },
   {
     iconUrl: estate,
@@ -240,6 +272,6 @@ export const projects = [
     name: "MyGini - Loyalty and Offers Management",
     description:
       "Create, personalize and communicate your offers in minutes and push them to your mobile app in real time.",
-    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects/",
+    link: "https://www.linkedin.com/in/burak-emre-dokuyucu/details/projects",
   },
 ];
