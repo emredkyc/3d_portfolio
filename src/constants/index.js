@@ -177,6 +177,14 @@ export const projects = [
     link: "https://github.com/emredkyc/event_platform",
   },
   {
+    iconUrl: estate,
+    theme: "btn-back-black",
+    name: "A CRM Dashboard",
+    description: "Build an admin dashboard with full authentication, a homepage displaying charts and activities, a comprehensive table for companies with CRUD and search, and a Kanban board with real-time synchronization.",
+    link: "https://github.com/emredkyc/react_admin_dashboard
+",
+  },
+  {
     iconUrl: summiz,
     theme: "btn-back-yellow",
     name: "An AI Article Summarizer Website",
