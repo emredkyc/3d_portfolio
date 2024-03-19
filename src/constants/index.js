@@ -198,6 +198,13 @@ export const projects = [
     link: "https://carhub-dev.vercel.app",
   },
   {
+    iconUrl: summiz,
+    theme: "btn-back-pink",
+    name: "Modern UI/UX website",
+    description: "Learn to create modern websites with sleek parallax effects and bento box layouts. This project covers everything from stylish UI design to mobile-first principles while strengthening your React.js and Tailwind CSS skills.",
+    link: "https://brainstorm-dev.vercel.app",
+  },
+  {
     iconUrl: snapgram,
     theme: "btn-back-yellow",
     name: "Personal portfolio website.",
