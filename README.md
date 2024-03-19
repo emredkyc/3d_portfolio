@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://3d-portfolio-emredkyc.vercel.app/" target="_blank">
+    <a href="https://3d-portfolio-emredkyc.vercel.app" target="_blank">
       <img src="https://i.ibb.co/n6mWktP/3d-Website.png" alt="Project Banner">
     </a>
   <br />
