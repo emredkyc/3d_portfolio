@@ -210,7 +210,7 @@ export const projects = [
     name: "Personal portfolio website.",
     description:
       "Personal portfolio website.",
-    link: "https://resume-emredkyc.vercel.app",
+    link: "https://portfolio-emredkyc.vercel.app",
   },
   {
     iconUrl: estate,
